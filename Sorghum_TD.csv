@@ -1,0 +1,325 @@
+Variable ID,Variable name,Variable synonyms,Context of use,Growth stage,Variable status,Variable Xref,Institution,Scientist,Date,Language,Crop
+CO_324:0000387,AgApp_E_1to5,AGAPP_1_5,"Trials, Nursery, Farmer group evaluation",Maturity,,BMS_20377,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000388,EPcleNo_Ct_pclePlot,NEP_pcle,Trials and nurseries,Maturity,,BMS_20403,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000392,ETNo_Ct_tllrplnt,ETN_tillers,,,,BMS_20551,,,,EN,sorghum
+CO_324:0000393,FP_E_1to3,FP_1_3,Trials and nurseries,Maturity,,BMS_20385,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000397,GDMC_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000399,GDMYld_C_gPlot,,,,,BMS_20553,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000400,GDMYld_C_kgha,,,,,BMS_20591,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000403,GHvYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000404,GHvYld_M_gPlot,,,,,BMS_20394,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000408,GMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000412,GMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000413,GNo_C_grnm2,GRNO_grn_m2,,Maturity,,BMS_20552,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000414,GNoPcle_C_grnpcle,NBGPAN_grn_pcle,Trials and nurseries,Maturity,,BMS_20554,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000418,GStdYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000422,GStdYld_C_kgplot,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000424,GW_1000grnM_g,W1000G_g,,Maturity,,BMS_18110,,,,EN,sorghum
+CO_324:0000426,GW_100grnM_g,W100G_g,Trials and nurseries,Maturity,,BMS_20564,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000427,GWPcle_C_gpcle,GWPP_g,Trials and nurseries,Maturity,,BMS_20393,IER Mali,Niaba Teme,05-Dec-2010,EN,sorghum
+CO_324:0000428,GYld_E_1to5,YLDSCORE_1_5,"Trials, Nursery, Farmer group evaluation",Maturity,,BMS_20419,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000429,HI_C_pct,HI_pct,,Maturity,,BMS_18120,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000433,LfDMC_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000434,LfDMYld_C_gPlot,LFWT_g,,,,BMS_20597,CIRAD/ICRISAT,JF Rami/Jayashree B,,EN,sorghum
+CO_324:0000437,LfDMYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000441,LfHvYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000445,LfHvYld_M_gPlot,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000449,LfMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000453,LfMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000454,LodgInc_E_1to5,LODG_1_5,Trials and nurseries,Flowering and Maturity,,BMS_20601,INERA,Clarisse Barot,30-Aug-2012,EN,sorghum
+CO_324:0000455,MS_E_1to3,MS_1_3,Trials and nurseries,Flowering,,BMS_20400,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000456,NHH_Ct_hill,NHH_hills,Trials and nurseries,Maturity,,BMS_20404,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000457,NSelPcle_Ct_pcle,NSP_pcle,Nursery,Maturity,,BMS_20407,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000458,NSH_Ct_hill,NSH_plants,Trials and nurseries,Seedling stage,,BMS_20406,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000462,PcleDMC_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000465,PcleDMYld_C_gPlot,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000466,PcleDMYld_C_kgha,,,,,BMS_20615,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000467,PcleHI_C_pct,PHI_pct,,Maturity,,BMS_20556,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000468,PcleHvNo_Ct_pclePlot,NHP_pcle,Trials and nurseries,Maturity,,BMS_20550,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000471,PcleHvYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000472,PcleHvYld_M_gPlot,,,,,BMS_20414,ICRISAT/IER/CIRAD,Eva Weltzien/Niaba Teme/JF Rami,,EN,sorghum
+CO_324:0000476,PcleMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000480,PcleMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000481,PcleNo_Ct_pclePlot,NBPN_pcle,,Maturity,,BMS_20604,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000482,PcleOTNo_Ct_pclePlot,NOTP_pcle,Trials and nurseries,Maturity,,BMS_20405,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000483,PcleThrs_E_1to9,PANTHRS_1_9,Trials and nurseries,Maturity,,BMS_20410,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000484,PCleWWoG_M_gpcle,PWTMG_g,,Maturity,,BMS_20614,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000488,PNo_Ct_plntPlot,PNP_plants,,,,BMS_20557,,,,EN,sorghum
+CO_324:0000489,PVig_E_1to5,GV_1_5,Trials and nurseries,,,BMS_18080,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000490,SdlgNo_Ct_plntPlot,NSPLT_plants,Trials and nurseries,Seedling stage,,BMS_20408,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000491,SdlgVig_E_1to5,SVIG_1_5,Trials and nurseries,Seedling stage,,BMS_20392,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000495,StmDMC_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000499,StmDMYld_C_gPlot,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000503,StmDMYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000504,StmHvYld_C_kgha,SYLD_kg_ha,,,,BMS_20629,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000505,StmHvYld_M_gPlot,,,,,BMS_20628,ICRISAT/CIRAD,JF Rami/Jayashree B,,EN,sorghum
+CO_324:0000509,StmMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000513,StmMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000517,StoDMC_M_pct,,,,,BMS_20559,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000518,StoDMYld_C_gPlot,,Trials and nurseries,Maturity,,BMS_20558,CIRAD/ICRISAT Bamako,JF Rami/Eva Weltzien,,EN,sorghum
+CO_324:0000521,StoDMYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000525,StoHvYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000529,StoHvYld_M_gPlot,,,,,BMS_20562,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000533,StoMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000537,StoMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000541,VGR_C_gm2day,VGR_g_m2_day,,,,BMS_20563,,,,EN,sorghum
+CO_324:0000545,WAGBDMC_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000546,WAGBDMYld_C_gPlot,,,,,BMS_20549,CIRAD/ICRISAT,JF Rami/Jayashree B,,EN,sorghum
+CO_324:0000549,WAGBDMYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000552,WAGBDMYld_C_tha,BM_t_ha,,Maturity,,BMS_18010,,,,EN,sorghum
+CO_324:0000556,WAGBHvYld_C_kgha,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000560,WAGBHvYld_M_gPlot,,,,,BMS_20560,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000564,WAGBMoi_C_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000568,WAGBMoi_M_pct,,,,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000570,FAnthrRes_E_1to5,FANTH_1_5,Trials and nurseries,Maturity,,,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000571,FAnthrSev_E_1to9,FANTH_1_9,Trials and nurseries,Maturity,,BMS_20384,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000572,GAnthrSev_E_1to5,GANTH_1_5,Trials and nurseries,Maturity,,BMS_20386,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000573,GMoldSev_E_1to5,PGMR_1_5,Trials and nurseries,Maturity,,,ICRISAT Bamako,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000574,GMoldSev_E_1to9,PGMR_1_9,Trials and nurseries,Maturity,,BMS_20389,ICRISAT Bamako,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000575,Helminth_E_0to1,HELMINTH_0_1,Trials and nurseries,,,BMS_20592,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000576,InsDmg_E_1to9,INSD_1_9,,Seedling to Maturity,,BMS_20593,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000577,MidgeInc_E_1to5,MSCORE_1_5,Trials and nurseries,Maturity,,BMS_20402,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000578,RustInc_C_pct,RUST_pct,,Seedling to Maturity,,BMS_20616,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000579,SBorerInc_C_pct,SB_pct,,Seedling to maturity,,BMS_20617,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000580,SDMInc_C_pct,SDMF_pct,,Seedling to Maturity,,BMS_20619,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000581,SootStr_E_0to1,SOOTSTR_0_1,Trials and nurseries,Growth Stage,,BMS_20622,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000582,SSFlyInc_C_pct,SSFLY_pct,,3-4 weeks after planting,,BMS_20624,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000583,StrigaNo_Ct_plntPlot,NSTRIGA_plants,Trials and nurseries,Maturity,,BMS_20409,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000584,StrigaInc_E_1to5,STRSE_1_5,Trials and nurseries,Maturity,,BMS_20417,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000585,StrigaMaxVig_E_0to9,MAXVSP_0_9,Trials and nurseries,,,BMS_20399,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000586,StrigaMeanVig_E_0to9,MVSP_0_9,Trials and nurseries,,,BMS_20402,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000587,Antho_E_0to2,ANTHO_0_2,Trials and nurseries,,,BMS_20571,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000588,Coleopcol_E_1to2,Colcol_1_2,Nursery,Seedling stage,,BMS_20572,INERA,Clarisse Barot,30-Aug-2012,EN,sorghum
+CO_324:0000589,FlgLfW_DW_gPlot,FLGWT_g,Trials and nurseries,Maturity,,BMS_20578,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000591,GCov_E_0to9,,Nursery,Maturity,,,,,,EN,sorghum
+CO_324:0000592,GCov_E_1to5,GRNCOV_1_5,Nursery,Maturity,,BMS_20391,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000593,GlmAd_E_1to5,GLUMAD_score,Trials and nurseries,Maturity,,BMS_20583,INERA,Clarisse Barot,30-Aug-2012,EN,sorghum
+CO_324:0000594,GlmAwn_E_0to2,GLUAWN_0_2,Trials and nurseries,Maturity,,BMS_20582,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000595,GlmCol_E_1to4,GLUMCOL_1_4,Trials and nurseries,Maturity,,BMS_20584,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000596,GlmOp_E_0to2,GLUMOP_0_2,Trials and nurseries,Maturity,,BMS_20585,INERA,Clarisse Barot,30-Aug-2012,EN,sorghum
+CO_324:0000597,GLNo_Ct_lfplnt,NBGRLV_leaves,Trials and nurseries,Maturity,,BMS_20603,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000598,GRotation_E_0to2,GRROT_0_2,Trials and nurseries,Maturity,,BMS_20588,INERA,Clarisse Barot,30-Aug-2012,EN,sorghum
+CO_324:0000599,GShpDors_E_1to3,GRSHP_score,Trials and nurseries,Maturity,,BMS_20589,,,,EN,sorghum
+CO_324:0000603,GShpProf_E_1to3,GRSHPPROF_1_3,Trials and nurseries,Maturity,,,,,,EN,sorghum
+CO_324:0000604,InterNodLng_M_cm,SIL_cm,Trials and nurseries,Maturity,,BMS_20416,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000605,InterNodNo_Ct_internod,INTNN_internodes,Trials and nurseries,Maturity,,BMS_20594,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000606,LfCol_E_1to2,LCLR_1_2,,Maturity,,BMS_20596,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000607,LfMRCol_E_1to5,LMC_1_5,,Pre-Flowering,,BMS_20600,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000608,LfStmWRatio_C_pct,LOST_pct,,Maturity,,BMS_20627,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000609,LfVCol_E_1to2,LVC_1_2,,Maturity,,BMS_20602,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000611,NdlTNo_E_tllr,NDLT_1_5,,Maturity,,BMS_20606,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000613,PBTNo_Ct_tllr,,,Maturity,,BMS_20630,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000614,PcleCptSh_E_1to9,PCPT_1_9,,Maturity,,,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000615,PcleDen_E_1to5,PDEN_1_5,Trials and nurseries,Maturity,,BMS_20412,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000616,PcleDsirblty_E_1to5,PD_1_5,"Trials, Nursery, Farmer group evaluation",Maturity,,BMS_20411,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000618,PcleEx_E_1to4,,,Maturity,,,CIRAD,JF Rami,,EN,sorghum
+CO_324:0000619,PcleEx_M_cm,PEXC_cm,,Maturity,,BMS_20611,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000620,PcleLng_M_cm,PANL_cm,Trials and nurseries,Maturity,,BMS_20608,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000621,PcleWid_M_cm,PWDTH_cm,,Maturity,,BMS_20613,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000622,PedLng_M_cm,PEDL_cm,Trials and nurseries,Maturity,,BMS_20609,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000623,PH_M_cm,PH_cm,Trials and nurseries,Flowering,,BMS_20413,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000624,RestLfW_C_g,LFWT1_g,,Maturity,,BMS_20598,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000627,StmLng_M_cm,,Trials and nurseries,Maturity,,,CIRAD,JF Rami/D Pot,2016-09-22 00:00:00,EN,sorghum
+CO_324:0000628,Hvst_dto_day,DTHV_day,,Maturity,,BMS_20575,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000630,Sow_date_ymd,DS_date_ymd,Trials and nurseries,Sowing,,BMS_20381,,,,EN,sorghum
+CO_324:0000631,FLfL_C_day,FLT_dto_day,Trials and nurseries,Flowering,,BMS_20382,CIRAD,JF Rami,11-May-2012,EN,sorghum
+CO_324:0000632,FLfL_date_jd,FLT_date_jd,Trials and nurseries,Flowering,,,CIRAD,JF Rami,11-May-2012,EN,sorghum
+CO_324:0000634,FLfL_date_ymd,FLT_date_ymd,Trials and nurseries,Flowering,,BMS_20573,,,,EN,sorghum
+CO_324:0000635,Flo_C_day,FLW_dto_day,,Flowering,,BMS_20379,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000636,Flo_date_jd,FLW_date_jd,Trials and nurseries,Flowering,,,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000638,Flo_date_ymd,FLW_date_ymd,Trials and nurseries,Flowering,,BMS_20574,,,,EN,sorghum
+CO_324:0000640,Hd_C_day,,,Pre-Flowering,,,CIRAD,JF Rami/D Pot,2016-09-22 00:00:00,EN,sorghum
+CO_324:0000641,Hd_date_jd,HD_jd,Trials and nurseries,Pre-Flowering,,,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000643,Hd_date_ymd,HD_date_ymd,Trials and nurseries,Pre-Flowering,,BMS_20395,,,,EN,sorghum
+CO_324:0000646,Hvst_date_jd,,Trials and nurseries,Harvest,,,CIRAD,JF Rami/D Pot,2016-09-22 00:00:00,EN,sorghum
+CO_324:0000650,Hvst_date_ymd,,Trials and nurseries,Harvest,,,CIRAD,JF Rami/D Pot,2016-09-22 00:00:00,EN,sorghum
+CO_324:0000651,Kp_C_index,Kp_index,Trials and nurseries,Maturity,,BMS_20595,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000654,Mat_C_day,DTMAT_day,Trials and nurseries,Maturity,,BMS_18040,,,,EN,sorghum
+CO_324:0000655,Mat_date_jd,DMAT_jd,Trials and nurseries,Maturity,,,IER Mali,Niaba Teme,05-Dec-2010,EN,sorghum
+CO_324:0000657,Mat_date_ymd,DMAT_date_ymd,Trials and nurseries,Maturity,,BMS_20380,,,,EN,sorghum
+CO_324:0000658,MatApp_E_1to5,MA_1_5,"Trials, Nursery, Farmer group evaluation",Maturity,,BMS_20398,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000662,DecGW_M_g,GDWT_g,Trials and nurseries,Maturity,,BMS_20388,,,,EN,sorghum
+CO_324:0000663,EndoCol_E_1to2,ENDCOL_1_2,Trials and nurseries,Maturity,,BMS_20383,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000664,EndoT_E_1to5,ET_1_5,Trials and nurseries,Maturity,,BMS_20577,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000665,GAmy_DSC_pct,AMY_pct__DSC,Trials and nurseries,Maturity,,BMS_20570,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000666,GAmy_NIRS_pct,AMY_pct__NIRS,Trials and nurseries,Maturity,,,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000667,GCol_E_1to6,GRNCOL_1_6,Trials and nurseries,Maturity,,BMS_20390,ICRISAT/IER,Eva Weltzien/Niaba Teme,2011-11-24 00:00:00,EN,sorghum
+CO_324:0000668,GCol_E_1to9,SDCLR_1_9,,Maturity,,BMS_20618,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000669,GD_E_1to5,GD_1_5,Trials and nurseries,Maturity,,BMS_20387,ICRISAT Bamako,Eva Weltzien,2011-11-23 00:00:00,EN,sorghum
+CO_324:0000670,GDecYld_C_pct,GDYD_pct,Trials and nurseries,Maturity,,BMS_20580,IER Mali,Niaba Teme,05-Dec-2010,EN,sorghum
+CO_324:0000671,GDen_M_kghl,GDENS_g,Trials and nurseries,Maturity,,BMS_20579,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000672,GHrd_M_pct,GHD_pct,Trials and nurseries,Maturity,,BMS_20581,CIRAD,JF Rami,11-May-2012,EN,sorghum
+CO_324:0000673,GLip_NIRS_pct,LIP_pct__NIRS,Trials and nurseries,Maturity,,,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000674,GLip_Sox_pct,LIP_pct__SOX,Trials and nurseries,Maturity,,BMS_20599,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000675,GLstr_E_0to1,,,Maturity,,BMS_20620,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000676,GProt_Kjdl_pct,PROT_pct__KJE,Trials and nurseries,Maturity,,,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000677,GProt_NIRS_pct,PROT_pct__NIRS,Trials and nurseries,Maturity,,BMS_20612,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000678,GRnd_M_num,GRNRD_num,Trials and nurseries,Maturity,,BMS_20587,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000679,GSCoat_E_0to1,SSCT_0_1,,Maturity,,BMS_20623,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000680,GSz_E_1to5,SSZE_1_5,,Maturity,,BMS_20625,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000681,PerThk_E_0to2,PERTH_0_2,Trials and nurseries,Maturity,,BMS_20610,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000682,StmJQ_M_ml,JQ_ml,Trials and nurseries,Maturity,,BMS_20396,ICRISAT Bamako,Eva Weltzien,2012-03-12 00:00:00,EN,sorghum
+CO_324:0000683,StmJSC_pct,SC_pct,Trials and nurseries,Maturity,,BMS_20415,ICRISAT Bamako,Eva Weltzien,2012-03-12 00:00:00,EN,sorghum
+CO_324:0000684,StmJW_M_g,JW_g,Trials and nurseries,Maturity,,BMS_20397,ICRISAT Bamako,Eva Weltzien,2012-03-12 00:00:00,EN,sorghum
+CO_324:0000685,StmK_M_pct,STK_pct,,Maturity,,BMS_20626,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000686,StmNa_M_pct,SOD_pct,,Maturity,,BMS_20621,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000687,StoEng_M_MJkg,ENG_MJ_kg,,Maturity,,BMS_20576,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000688,StoND_NIRS_pct,NDG_pct,,Maturity,,BMS_20605,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000689,StoOMD_NIRS_pct,ODG_pct,,Maturity,,BMS_20607,ICRISAT,Jayashree B,,EN,sorghum
+CO_324:0000690,ToCol_E_1to5,TOCOL_1_5,Trials and nurseries,Maturity,,BMS_20631,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000691,ToCons_E_1to5,TOCONS_1_5,Trials and nurseries,Maturity,,BMS_20632,CIRAD,JF Rami,08-May-2012,EN,sorghum
+CO_324:0000695,BVP_M_dcd,PAN-basic-vegetative-phase_PAN28_dd,Trials and nurseries,Panicle initiation,,,CIRAD/IER,Michel Vaksmann,22-Dec-2017,EN,sorghum
+CO_324:0000699,P2O_C_hours,PAN_critical-photoperiod_PAN27_h,Trials and nurseries,Panicle initiation,,,CIRAD/IER,Michel Vaksmann,22-Dec-2017,EN,sorghum
+CO_324:0000701,TTFL_C_dcd,FLAG-appearance_FLA5_dd,Trials and nurseries,Panicle initiation,,,CIRAD/IER,Michel Vaksmann,22-Dec-2017,EN,sorghum
+CO_324:0000704,TTPI_C_dc,PAN_inititation-thermal-time_PAN26_dd,Trials and nurseries,Panicle initiation,,,CIRAD/IER,Michel Vaksmann,22-Dec-2017,EN,sorghum
+CO_324:0000708,P2R_C_ddhp,PAN_PPS-CERES,Trials and nurseries,Panicle initiation,,,CIRAD/IER,Michel Vaksmann,01-Feb-2018,EN,sorghum
+CO_324:0000711,InterNodADFDM_VSADFDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2019-10-22 00:00:00,EN,sorghum
+CO_324:0000714,InterNodCellDM_VSCellDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2019-10-22 00:00:00,EN,sorghum
+CO_324:0000717,InterNodCWRDM_VSNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2019-10-22 00:00:00,EN,sorghum
+CO_324:0000720,InterNodHemiDM_VSHemiDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2019-10-22 00:00:00,EN,sorghum
+CO_324:0000723,InterNodLigDM_VSADLDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2019-10-22 00:00:00,EN,sorghum
+CO_324:0000749,StmMnShoADFDM_VSADFDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000750,StmMnShoCellDM_VSCellDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000751,StmMnShoCWRDM_VSNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000752,StmMnShoHemiDM_VSHemiDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000753,StmMnShoLigDM_VSADLDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000754,StmMnShoIVDMD_AufrereIVDMDNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000755,StmMnShoIVCWRD_IVNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000756,StmMnShoIVOMD_AufrereIVOMDNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000757,StmMnShoCFDM_CFDMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000758,StmMnShoRoughSSDM_RoughSSNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000759,StmMnShoCPDM_KjdlCPNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000760,StmMnShoMMDM_MMNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000761,StmMnShoLigCWR_VSADLNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000762,StmMnShoCellCWR_VSCellNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000763,StmMnShoHemiCWR_VSHemiNDFNIRS_pct,,"Trials, nurseries",variable,standard for CIRAD,,CIRAD,"Pot David, Potier Françoise",2020-10-12 00:00:00,EN,sorghum
+CO_324:0000805,InterNodFructDM_FructDMM_mgg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000808,InterNodGlucDM_GlucDMM_mgg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000811,InterNodSucrDM_SucrDMM_mgg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000814,InterNodSSDM_SSDMGut_mgg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000817,InterNodLigDM_AcBrL_mgg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000819,MnShoStmRoughSSDM_RoughSSNIRSDW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000820,InterNodDM_DM_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000821,InterNodDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000822,InterNodDW_DWPool_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000823,InterNodDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000824,InterNodDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000825,InterNodDW_DWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000826,InterNodFW_FWPoolM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000827,InterNodFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000828,InterNodFW_FWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000830,InterNodZ2BlueArea_Z2BA_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000832,InterNodZ2BlueArea_Z2BAM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000834,InterNodZ2Area_Z2A_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000836,InterNodZ2Area_Z2AM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000838,InterNodZ1Area_Z1A_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000840,InterNodZ1Area_Z1AM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000841,InterNodSSDM_LuffShSSDMNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000842,MnShoLfDM_DM_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000843,MnShoLfDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000844,MnShoLfDW_DWPool_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000845,MnShoLfDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000846,MnShoLfDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000847,MnShoLfDW_DWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000848,MnShoLfFW_FWPoolM_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000849,MnShoLfFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000850,MnShoLfFW_FWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000851,MnShoPcleDM_DM_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000852,MnShoPcleDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000853,MnShoPcleFW_FWPoolM_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000854,MnShoPcleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000855,MnShoPcleFW_FWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000856,MnShoStmDM_DM_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000857,MnShoStmDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000858,MnShoStmDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000859,MnShoStmDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000860,MnShoStmDW_DWPool_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000861,MnShoStmDW_DWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000862,MnShoStmFW_FWPoolM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000863,MnShoStmFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000864,MnShoStmFW_FWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000866,PcleDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000867,PcleDW_DWPool_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000868,PcleDW_DWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000870,PcleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000871,PcleFW_FWPoolM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000872,PcleFW_FWPool1Plt_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000874,InterNodZ2RedArea_Z2RA_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000876,InterNodZ2RedArea_Z2RAM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000878,InterNodZ1RedArea_Z1RA_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000880,InterNodZ1RedArea_Z1RAM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000881,TllrDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000882,TllrDM_DM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000883,TllrDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000884,TllrDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000885,TllrDW_DWPool_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000886,TllrDW_DWPoolSumOrg_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000887,TllrDW_DWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000888,TllrDW_DWPool1PltSumOrg_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000890,TllrFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000891,TllrFW_FWPoolM_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000892,TllrFW_FWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000893,MnShoPcleDW_DWPool_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000894,MnShoPcleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000895,MnShoPcleDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000896,MnShoPcleDW_DWPool1Plt_g,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000898,BasalTllrFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000901,InterNodCWRDM_CWRGravM_pct,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000903,InterNodCellCWR_VSCellNDFNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000906,InterNodArea_InterNodAM_mm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000908,InterNodCFDM_CFDMNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000910,InterNodCPDM_KjdlCPNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000913,InterNodDia_InterNodDiaM_mm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000915,InterNodHemiCWR_VSHemiNDFNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000917,InterNodIVCWRD_IVNDFDNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000919,InterNodIVDMD_AufrereIVDMDNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000921,InterNodIVOMD_AufrereIVOMDNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000923,InterNodZ2DW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000925,InterNodZ2FW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000928,InterNodLng_LngM_cm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000930,InterNodLigCWR_VSADLNDFNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000933,InterNodDiaMax_InterNodDiaMaxM_mm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000935,InterNodMMDM_MMNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000938,InterNodDiaMin_InterNodDiaMinM_mm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000940,InterNodZ1DW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000942,InterNodZ1FW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000944,InterNodSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000946,InterNodSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000948,InterNodRoughSSDM_RoughSSNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000950,LfDW_DW_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000952,LfFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000954,MnShoLfSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000956,MnShoLfSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000958,MnShoLfWC_WCSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000960,MnShoPcleSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000962,MnShoPcleSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000964,MnShoPcleWC_WCSamp_pct,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000967,MnShoStmBMPDM_BMPDMNIRS_NmLCH4g,,"Trials, nurseries",variable,Standard for CIRAD,,"CIRAD, INRAE","Latrille Eric, Rossard Virginie, CarrÃ¨re HÃ©lÃ¨ne, Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000970,MnShoStmBMPVS_BMPVSNIRS_NmLCH4g,,"Trials, nurseries",variable,Standard for CIRAD,,"CIRAD, INRAE","Latrille Eric, Rossard Virginie, CarrÃ¨re HÃ©lÃ¨ne, Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000973,MnShoStmDen_StmDen_gcm3,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000976,MnShoPcleBaseHt_LngM_cm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000979,MnShoLastLiguLfHt_LngM_cm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000983,MnShoStmHHVDM_HHVDMNIRS_MJkg,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000985,MnShoStmSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000987,MnShoStmSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000989,MnShoStmSSDM_LuffShSSDMNIRS_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise, Bastianelli Denis, Bonnal Laurent",2022,EN,Sorghum
+CO_324:0000992,MnShoStmStructDen_StmStructDen_gcm3,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000996,MnShoStmVol_StmVol_cm3,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0000998,MnShoStmWC_WCSamp_pct,,"Trials, nurseries",,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001001,MnShoWABDM_DMSumOrg_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001003,NodDM_DM_pct,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001005,NodDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001007,NodFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001010,NodLng_LngM_cm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001014,MnShoGrLfNo_Ct_GrLfMnSho,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001018,MnShoLfNo_Ct_LfMnSho,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001022,MnShoLiguLfNo_Ct_LiguLfMnSho,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001026,InterNodZ2VB_Ct_vb,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001028,PcleDM_DMSamp_pct,,"Trials, nurseries",variable,Standard for CIRAD,,IAVAO_group,IAVAO_group,2022,EN,Sorghum
+CO_324:0001030,PcleSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001032,PcleSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001035,PhytomLng_LngM_cm,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001038,Emer_date_ymd,,"Trials, nurseries",emergence,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001040,TllrSampleDW_DWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001042,TllrSampleFW_FWM_g,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
+CO_324:0001046,InterNodZ2VBDen_VBDen_vbmm2,,"Trials, nurseries",variable,Standard for CIRAD,,CIRAD,"Pot David, PotierFrançoise",2022,EN,Sorghum
